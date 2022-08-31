@@ -1,5 +1,5 @@
 # Readme file Demo
 
-## Heading
+## Main heading
 
-Some text added here.
+Some text added here for demonstration purposes.
